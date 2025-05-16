@@ -8,7 +8,7 @@ Este repositório contém o meu plano de estudos focado em PHP e Kotlin, organiz
 
 Toda a documentação detalhada, cronograma e materiais estão disponíveis na Wiki do projeto:
 
-[👉 Acesse a Wiki aqui][https://github.com/seuusuario/seurepositorio/wiki](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin/wiki)
+[👉 Acesse a Wiki aqui](https://github.com/seuusuario/seurepositorio/wiki](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin/wiki)
 
 ---
 
