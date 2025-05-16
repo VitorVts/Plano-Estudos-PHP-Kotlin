@@ -24,7 +24,8 @@ Fique à vontade para acompanhar, dar feedback ou sugerir melhorias.
 
 ## Contato
 
-Vitor — seuemail@example.com
+Vitor — vitorgguimaraes@gmail.com
+Telefone: (21)97004-1790
 
 ---
 
